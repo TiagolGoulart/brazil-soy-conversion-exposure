@@ -1,0 +1,10 @@
+{
+  "release": "20260703",
+  "files": {
+    "spatial-metrics-brazil-soy-soy_area_municipality.csv": "be61dc2692e5b9d356e2b1b5345a1fed4075ba8e7d8ea9029b9cb3af70ed3dfa",
+    "spatial-metrics-brazil-soy-soy_deforestation_5_year_total_municipality.csv": "e4970da7a0d79dc1443163f6f9580bbdb194d8bb38906a03da77ac77d9597a4a",
+    "spatial-metrics-brazil-territorial_deforestation_municipality.csv": "545125d8df8c5db284231cb3541746e2564fc30af75a65cbd95947dd5f4676b2",
+    "bioma_predominante_2024.xlsx": "def6ea5984bcc0afac511bed32b05b1d2cbe34f4295cbe7fd6d9bf6c74009c4b",
+    "BR_Municipios_2022.zip": "9c904fa1feb978a89042bfecd7758e571266f285d6122a4ff02ffe37bffb76a2"
+  }
+}

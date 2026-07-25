@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dashboard, cite the repository and the underlying Trase and IBGE datasets."
+title: "Brazil Soy Deforestation & Conversion Exposure"
+type: software
+authors:
+  - family-names: "Goulart de Oliveira"
+    given-names: "Tiago Landim"
+repository-code: "https://github.com/TiagolGoulart/brazil-soy-conversion-exposure"
+url: "https://github.com/TiagolGoulart/brazil-soy-conversion-exposure"
+version: 0.1.0
+date-released: 2026-07-25
+keywords:
+  - soy
+  - deforestation
+  - conversion
+  - Brazil
+  - Trase
+  - IBGE

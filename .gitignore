@@ -1,0 +1,14 @@
+.sites-runtime/
+.vinext/
+.open-next/
+.wrangler/
+node_modules/
+dist/
+dist-pages/
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Source inputs and generated browser datasets are rebuilt from pinned sources.
+data/raw/
+public/data/*.json
