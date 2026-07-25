@@ -9,10 +9,6 @@ and conversion in Brazil is linked to 2024 soy production. Results can be
 filtered and compared at national, predominant-biome, state and municipality
 levels.
 
-The dashboard is written in English and uses a colour system derived from the
-Earthworm Foundation visual identity. It is an analytical communication tool,
-not an official Earthworm Foundation or Trase product.
-
 ## Dashboard scope
 
 - Default map view by **predominant municipal biome**
